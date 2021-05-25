@@ -1,0 +1,1 @@
+powershell -c (New-Object Media.SoundPlayer "C:\Windows\Media\Windows Error.wav").PlaySync();
